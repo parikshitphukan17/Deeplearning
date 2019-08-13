@@ -1,2 +1,2 @@
 # Deeplearning
-Making project using deep learning algo
+Using sigmoid neuron to identify alphabets in english and hindi language
